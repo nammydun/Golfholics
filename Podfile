@@ -11,7 +11,7 @@ pod 'FirebaseUI'
 pod 'FBSDKCoreKit', '~> 4.35'
 pod 'FBSDKLoginKit', '~> 4.35'
 pod 'Firebase/Core', '~> 5.20'
-pod 'Firestore'
+pod 'Firebase/Firestore'
 
 target 'GolfholicsApp' do
 end
